@@ -1,2 +1,2 @@
-# plan-
+# plan +
 just a little plan
